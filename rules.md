@@ -16,5 +16,3 @@ September 18th, 2023
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](r1-log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
