@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - Sony Simon
+# #100DaysOfCode Log - Round 1 - Sony
 
 The log of my #100DaysOfCode challenge. Started on September 18, Monday 2023
 
