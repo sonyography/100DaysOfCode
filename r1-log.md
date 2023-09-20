@@ -7,12 +7,19 @@ The log of my #100DaysOfCode challenge. Started on September 18, Monday 2023
 ### R1D0
 Starting next week with a simple Mobile Blog App in React Native.
 
-### R1D1 - 18 Sep, 2023, Monday
+### R1D1 - 18 Sep'23, Mon
 Created a Context and Provider creator using useReducer.
 Set up the Home Screen to display Blog Posts (default data).
 [Today's Commit: 120 LOC](https://github.com/sonyography/simple-blog/commit/e1a546aba6eb6da8ade671ee1a50d64817ed69d3)
 
-### R1D2 - 19 Sep, 2023, Tuesday
+### R1D2 - 19 Sep'23, Tue
 Set up CRUD operations using the Context I created yesterday.
 Now I can create, display, edit and delete a blog post.
 [Today's Commit: 145 LOC](https://github.com/sonyography/simple-blog/commit/23a9f83ab521aa23cdc4b5033ab8b271926c3427)
+
+### R1D3 - 20 Sep'23, Wed
+Set up icons for create, update and delete operations.
+[Today's Commit: 73 LOC](https://github.com/sonyography/simple-blog/commit/9c87989d2decc51ed78701a134a697ba7c2db76f)
+
+
+
