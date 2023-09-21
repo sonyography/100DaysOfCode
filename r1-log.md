@@ -21,5 +21,7 @@ Now I can create, display, edit and delete a blog post.
 Set up icons for create, update and delete operations.
 [Today's Commit: 73 LOC](https://github.com/sonyography/simple-blog/commit/9c87989d2decc51ed78701a134a697ba7c2db76f)
 
-
+### R1D4 - 21 Sep'23, Thu
+Tested out a JSON Server setup so that I can deploy it for the simple Blog App.
+No changes to the core project file, hence no commit.
 
