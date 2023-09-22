@@ -28,4 +28,4 @@ No changes to the core project file, hence no commit.
 ### R1D5 - 22 Sep'23, Fri
 Set up the simple Blog App to use a JSON File on a JSON Server as the database.
 [Today's Commit: 35 LOC](https://github.com/sonyography/simple-blog/commit/de693c307bb6a86659344e76601e2eca400f3e48)
-
+App Scaffolding done for the next app - Mood Tracker. [Repo](https://github.com/sonyography/mood-tracker)
