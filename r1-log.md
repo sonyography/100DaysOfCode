@@ -25,3 +25,7 @@ Set up icons for create, update and delete operations.
 Tested out a JSON Server setup so that I can deploy it for the simple Blog App.
 No changes to the core project file, hence no commit.
 
+### R1D5 - 22 Sep'23, Fri
+Set up the simple Blog App to use a JSON File on a JSON Server as the database.
+[Today's Commit: 35 LOC](https://github.com/sonyography/simple-blog/commit/de693c307bb6a86659344e76601e2eca400f3e48)
+
