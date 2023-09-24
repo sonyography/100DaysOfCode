@@ -32,3 +32,6 @@ App Scaffolding done for the next app - Mood Tracker. [Repo](https://github.com/
 
 ### R1D6 - 23 Sep'23, Sat
 Included Apollo Server and Client set up for the Mood Tracker app
+
+### R1D7 - 24 Sep'23, Sun
+Set Up the Mood Tracker app to Styled Components library
