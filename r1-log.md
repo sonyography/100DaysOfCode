@@ -35,3 +35,6 @@ Included Apollo Server and Client set up for the Mood Tracker app
 
 ### R1D7 - 24 Sep'23, Sun
 Set Up the Mood Tracker app to Styled Components library
+
+### R1D8 - 25 Sep'23, Mon
+Created a simple Date and Time picker for the mood tracker app
