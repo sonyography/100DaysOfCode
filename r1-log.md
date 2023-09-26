@@ -38,3 +38,6 @@ Set Up the Mood Tracker app to Styled Components library
 
 ### R1D8 - 25 Sep'23, Mon
 Created a simple Date and Time picker for the mood tracker app
+
+### R1D9 - 26 Sep'23, Tue
+Set up the Date Selector to look consistent on both iOS and Android.
