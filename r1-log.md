@@ -45,5 +45,8 @@ Set up the Date Selector to look consistent on both iOS and Android
 ### R1D10 - 27 Sep'23, Wed
 Amended the Date Selector to use either an Input or a Calendar
 
-### R1D11 - 28 Sep'23, Wed
+### R1D11 - 28 Sep'23, Thu
 Set up a simple Date and Time editor
+
+### R1D12 - 29 Sep'23, Fri
+Set up icons and journal box for Mood Tracker entry
