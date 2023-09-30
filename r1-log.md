@@ -50,3 +50,6 @@ Set up a simple Date and Time editor
 
 ### R1D12 - 29 Sep'23, Fri
 Set up icons and journal box for Mood Tracker entry
+
+### R1D13 - 30 Sep'23, Sat
+Mood Tracker entry screen can record the date, mood and journal entry and display it in console
