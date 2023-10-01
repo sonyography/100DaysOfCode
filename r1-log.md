@@ -53,3 +53,6 @@ Set up icons and journal box for Mood Tracker entry
 
 ### R1D13 - 30 Sep'23, Sat
 Mood Tracker entry screen can record the date, mood and journal entry and display it in console
+
+### R1D14 - 1 Oct'23, Sun
+Set up the Mood Tracker to use Context-Provider and Reducer to manage data (CRUD operations)
