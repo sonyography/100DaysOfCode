@@ -56,3 +56,6 @@ Mood Tracker entry screen can record the date, mood and journal entry and displa
 
 ### R1D14 - 1 Oct'23, Sun
 Set up the Mood Tracker to use Context-Provider and Reducer to manage data (CRUD operations)
+
+### R1D15 - 2 Oct'23, Mon
+Organised project files and refactored MoodEntry code 
