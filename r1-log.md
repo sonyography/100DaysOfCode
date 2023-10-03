@@ -59,3 +59,6 @@ Set up the Mood Tracker to use Context-Provider and Reducer to manage data (CRUD
 
 ### R1D15 - 2 Oct'23, Mon
 Organised project files and refactored MoodEntry code 
+
+### R1D16 - 3 Oct'23, Tue
+Mood Tracker can now save and display data from a json file hosted on a json server 
