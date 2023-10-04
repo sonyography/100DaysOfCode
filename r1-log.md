@@ -62,3 +62,6 @@ Organised project files and refactored MoodEntry code
 
 ### R1D16 - 3 Oct'23, Tue
 Mood Tracker can now save and display data from a json file hosted on a json server 
+
+### R1D17 - 4 Oct'23, Wed
+Began work on Mood Tracker V2. First task in progress which is to modularise UI Code into components
