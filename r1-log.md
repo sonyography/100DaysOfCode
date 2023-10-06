@@ -65,3 +65,6 @@ Mood Tracker can now save and display data from a json file hosted on a json ser
 
 ### R1D17 - 4 Oct'23, Wed
 Began work on Mood Tracker V2. First task in progress which is to modularise UI Code into components
+
+### R1D18 - 6 Oct'23, Fri
+Modularising UI Code into components and passing parameters between components seems like a pain
