@@ -68,3 +68,6 @@ Began work on Mood Tracker V2. First task in progress which is to modularise UI 
 
 ### R1D18 - 6 Oct'23, Fri
 Modularising UI Code into components and passing parameters between components seems like a pain
+
+## R1D19 - 7 Oct'23, Sat
+Finished splitting the Mood Entry Screen into components. Once I understood the principle, it turned out to be really easy. Also finally, fixed the UI which now clearly shows which emotion is selected and allows deselection.
