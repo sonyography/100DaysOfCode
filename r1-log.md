@@ -71,3 +71,6 @@ Modularising UI Code into components and passing parameters between components s
 
 ## R1D19 - 7 Oct'23, Sat
 Finished splitting the Mood Entry Screen into components. Once I understood the principle, it turned out to be really easy. Also finally, fixed the UI which now clearly shows which emotion is selected and allows deselection.
+
+## R1D20 - 8 Oct'23, Sun
+Finished splitting the Journal Entry Screen into components. Still need to fix sorting by date. But probably will do a few more functionalities before UI changes. 
