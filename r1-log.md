@@ -72,3 +72,6 @@ Finished splitting the Mood Entry Screen into components. Once I understood the 
 
 ## R1D20 - 8 Oct'23, Sun
 Finished splitting the Journal Entry Screen into components. Still need to fix sorting by date. But probably will do a few more functionalities before UI changes. 
+
+## R1D21 - 9 Oct'23, Mon
+Started implementing the Edit functionality
