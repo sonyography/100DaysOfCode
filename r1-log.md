@@ -78,3 +78,7 @@ Started implementing the Edit functionality
 
 ## R1D22 - 10 Oct'23, Tue
 Fixed the sorting on Main screen (ordered in reverse chronological order). Also implemented Edit and Delete functions.
+
+## R1D23 - 11 Oct'23, Wed
+Started experimenting with charts in Mood Tracker App
+
