@@ -82,3 +82,12 @@ Fixed the sorting on Main screen (ordered in reverse chronological order). Also 
 ## R1D23 - 11 Oct'23, Wed
 Started experimenting with charts in Mood Tracker App
 
+## R1D23 - 11 Oct'23, Wed
+Started experimenting with charts in Mood Tracker App
+
+## R1D24 - 12 Oct'23, Thu
+Created a custom hook to use the tracked Mood Data across multiple screens and charts
+
+## R1D25 - 16 Oct'23, Mon
+Back after a mini-break working on Chart Options. Stuck with a couple of bugs.
+
